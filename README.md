@@ -5,3 +5,6 @@
 - Lailil Hidayanti (24031554036)
 - Rahmawati Dian Pratiwi (24031554183)
 - Nurlaila Lutfi Azizah (24051554205)
+
+**Dataset**:
+https://universe.roboflow.com/palm-fruit-classification/palm-fruit-ripeness-classificationcnn/dataset/1
